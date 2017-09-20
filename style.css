@@ -9,15 +9,20 @@ header {
 	float: left;
 }
 
-nav {
+.nav {
 	float:right;
+}
+
+#sitetitle{
+	background-color:#4aaaa5;
+	padding:30px;
+	width:200px;
+	z-index: 2000;
+
 }
 
 h1 {
 	color:#fff;
-	background-color:#4aaaa5;
-	padding:30px;
-	width:300px;
 }
 
 h2, h3 {
