@@ -114,6 +114,23 @@ time, mark, audio, video {
 	width: 200px;
 }
 
+.social {
+	padding:10px;
+}
+
+
+	#github img:last-child{display:none}
+	#github:hover img:first-child{display:none}
+	#github:hover img:last-child{display:inline-block}
+
+
+	#linkedin img:last-child{display:none}
+	#linkedin:hover img:first-child{display:none}
+	#linkedin:hover img:last-child{display:inline-block}
+
+#stacko img:last-child{display:none}
+#stacko:hover img:first-child{display:none}
+#stacko:hover img:last-child{display:inline-block}
 
 
 
